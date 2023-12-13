@@ -1,3 +1,3 @@
-# Simple Shell
-By Xavvy(Elmehdi Charib)
-Written In C
+# Simple shell
+Written by Elmehdi Charib
+In C
